@@ -1,0 +1,7 @@
+name = Latest News 
+description = A block module that lists links to latest_news. 
+core = 7.x 
+package = MKK Modules
+
+
+configure = admin/config/content/latest_news

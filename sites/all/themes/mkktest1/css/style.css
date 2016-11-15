@@ -1,0 +1,34 @@
+/**
+ * Place your custom styles here.
+ */
+ body {
+	 background: #005c8f;
+ }
+ .main-wrapper {
+	 background: #ffffff;
+ }
+.panels-flexible-column-2-4 {
+    
+    width: inherit;
+}
+.panels-flexible-column-2-5 {
+  
+    width: inherit;
+}
+.panels-flexible-column-2-6 {
+   
+    width: inherit;
+}
+#block-menu-menu-footer-menu  {
+	margin: auto;
+	text-align: center;	
+}
+#block-menu-menu-footer-menu ul li {
+	display: inline-block;
+}
+#block-menu-menu-footer-menu ul li a {
+	color: #ffffff;
+}
+.footer {
+	background: #005c8f;
+}

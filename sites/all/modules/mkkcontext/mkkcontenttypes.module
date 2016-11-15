@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the mkkContentTypes feature.
+ */
+
+include_once 'mkkcontenttypes.features.inc';
